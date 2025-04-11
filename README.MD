@@ -17,10 +17,10 @@
 O sistema tem como objetivo facilitar o gerenciamento de uma livraria, permitindo o controle de estoque de livros, realização de vendas, processamento de pagamentos e envio de notificações para os usuários, além de possibilitar o cadastro de clientes e colaboradores.
 
 ## ✅ Funcionalidades do Sistema
-- [x] Cadastro e gerenciamento de livros  
-- [x] Controle de estoque  
-- [x] Registro de vendas  
-- [x] Processamento de pagamentos  
+- [ ] Cadastro e gerenciamento de livros  
+- [ ] Controle de estoque  
+- [ ] Registro de vendas  
+- [ ] Processamento de pagamentos  
 - [ ] Cadastro de usuários (clientes e colaboradores)  
 - [ ] Interface para consulta de informações  
 - [ ] Relatórios de vendas e estoque  
